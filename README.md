@@ -527,7 +527,7 @@ Use it responsibly:
 
 The following poster explains the basic working process of Npcap.
 
-![T1 - How Npcap Works](posters/t1.png)
+![T1 - How Npcap Works](t1.png)
 
 ---
 
